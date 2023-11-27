@@ -23,7 +23,7 @@ const CartItem = ({ item }) => {
                 <div className="text-xl cursor-pointer">
                     <IoMdClose className="text-gray-500 hover:text-red-500 transition"/>
                 </div>
-               <div className="bg-pink-200">
+               <div className="bg-pink-300">
                  {/* qty */}
                  <div>quantity</div>
                 {/* item price */}
